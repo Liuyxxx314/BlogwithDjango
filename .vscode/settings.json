@@ -1,0 +1,8 @@
+{
+    "git.ignoredRepositories": [
+        ".idea",
+        "setting.py",
+        "blog/__pycache__/",
+        "db.sqlite3"
+    ]
+}
